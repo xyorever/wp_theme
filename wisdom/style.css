@@ -1,0 +1,21 @@
+/*#background*/
+.center_text {
+	text-align: center;
+}
+img {
+	max-width: 100%;
+}
+
+
+#wrapper { display: block; border: 1px #a2a2a2 solid; width:90%; margin:0px auto; }
+#header { border: 2px #a2a2a2 solid; /*position: fixed;*/ }
+#logo {width: 5%; height:10%; float: right; overflow: auto; margin-top: -80px; margin-right: 700px;}
+#content { width: 75%; border: 2px #a2a2a2 solid; float: left; }
+#sidebar { width: 23%; border: 2px #a2a2a2 solid; float: right; /*position: fixed;*/ }
+#delimiter { clear: both; }
+#footer { border: 2px #a2a2a2 solid; }
+.title { font-size: 11pt; font-family: verdana; font-weight: bold; }
+
+/*#content*/
+#projects {border: 2px #a2a2a2 solid; max-width: 300px; max-height: 500px; margin-left: 50px;}
+#general{border-bottom: 2px #a2a2a2 solid;}
